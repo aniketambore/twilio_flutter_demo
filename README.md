@@ -39,3 +39,11 @@ TwilioFlutter twilioFlutter;
 
 ## Step 4
 - Call the sendSms() method from any onPressed event.
+
+## For Live Testing
+- [Flutter Twilio Demo Live](http://flutter-twilio-demo.surge.sh/#/)
+- Account Sid :- Enter Your Twilio Account SID.
+- Auth Token :- Enter Your Twilio AUTH TOKEN.
+- Twilio Number :- Enter Your Twilio Phone Number.
+- Number :- Enter the Receiver Phone Number to whom you want to send the message. **(Enable appropriate Messaging Geographic Permissions from your twilio dashboard)**
+- Message :- Enter the message you want to send.
